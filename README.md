@@ -16,5 +16,7 @@ There are some directories created within this repository. Make sure you know wh
 
 **scripts/data:** for the cookbook I used a Open Street Map extraction provided by GeoFrabik and based on the OSM Contributors with a distinct license. Therefore be mindful that, even this code is provided under GPLv3, the same DO NOT apply to OSM data. Please, refer to scripts/data/README for credits and further information.
 
+**scripts/out:** this is the folder where the scripts will store any required output file.
+
 # The Script Catalog
 So far, the scripts developed are listed below. You may access them by clicking on the hyperlink or navigate at the "scripts" folder.
